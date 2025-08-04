@@ -1,6 +1,6 @@
 ## 📚 Java-Estudos
 
-Este repositório é um registro completo, sistemático e progressivo do estudo aprofundado da linguagem Java, cobrindo desde os fundamentos até tópicos avançados. Cada tema é explorado com explicações próprias, exemplos variados, comparações críticas, exercícios práticos, anotações técnicas, revisão do conteúdo dado no SENAI Vila Mariana.
+Este repositório é um registro completo, sistemático e progressivo do estudo aprofundado da linguagem Java, cobrindo desde os fundamentos até tópicos avançados. Cada tema é explorado com explicações próprias, exemplos variados, comparações críticas, exercícios práticos, anotações técnica e revisão do conteúdo dado no SENAI Vila Mariana.
 
 ## ✔ Atualização recorrente:
 
